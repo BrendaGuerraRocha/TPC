@@ -1,0 +1,13 @@
+{
+  "version": 2,
+  "dgSpecHash": "NZqAH4k0nltO6gWj4ChziruZBPPxzEKeXbnOc0/9B3CwSMjdqVj/e4l1ddpeX16DXfp/nuti1JUilXnO04XPCw==",
+  "success": true,
+  "projectFilePath": "C:\\Users\\brend\\source\\repos\\Web_TPC\\Web_TPC\\Web_TPC.csproj",
+  "expectedPackageFiles": [
+    "C:\\Users\\brend\\.nuget\\packages\\bootstrap\\4.6.0\\bootstrap.4.6.0.nupkg.sha512",
+    "C:\\Users\\brend\\.nuget\\packages\\fontawesome\\4.7.0\\fontawesome.4.7.0.nupkg.sha512",
+    "C:\\Users\\brend\\.nuget\\packages\\jquery\\3.0.0\\jquery.3.0.0.nupkg.sha512",
+    "C:\\Users\\brend\\.nuget\\packages\\popper.js\\1.16.1\\popper.js.1.16.1.nupkg.sha512"
+  ],
+  "logs": []
+}
